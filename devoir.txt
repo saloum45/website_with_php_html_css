@@ -1,0 +1,26 @@
+exo_1
+ecrire un programme en php qui permet de remplir un tableau associatif 
+caracterise par un id,nom,prenom,moyenne
+parcourir les elements du tableau puis les afficher
+
+exo_2
+ecrire un  programme en php qui permet de controler la saisie d'une valeur entiere positive le programme affiche tout les nombres
+pairs compris entre 1 et l'entier saisit a partir du formulaire 
+
+exo_3
+ecrire un programme en php qui demande le nom,prenom,age d'un enfant puis affiche sa categorie 
+les categories sont ainsi definies:
+-bebe : moins de 6 ans 
+-poussin de 6 a 7 ans 
+-pipille de 8 a 9 ans 
+-minim de 10 a 11 ans 
+-cadet apres 12 ans
+
+exo_4
+creer une fonction nomme traiterfrm pour traiter les donnees envoyer par le formulairefrmclient.php
+cette fonction stock les donnees envoyees dans les variables locales nom,prenom,email et affiche un message de bienvenue
+en utilisant ces variables
+si la methode HTTp utilisee pour acceder la page est POST nous appelons la fonction traiterfrm
+si la methode est get nous affichons le formulaire 
+NB: creer   une page de votre choix qui contient des liens permettants d'acceder sur clic a toutes ces applocations 
+en utilisant du bootstrap
