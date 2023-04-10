@@ -14,7 +14,7 @@ les categories sont ainsi definies:
 -poussin de 6 a 7 ans 
 -pipille de 8 a 9 ans 
 -minim de 10 a 11 ans 
--cadet apres 12 ans
+-cadet apres 12 ans ..
 
 exo_4
 creer une fonction nomme traiterfrm pour traiter les donnees envoyer par le formulairefrmclient.php
