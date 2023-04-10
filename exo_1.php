@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    //here i use the array 
     <?php
         $information=array(
             array("id"=>1,"nom"=>"fall","prenom"=>"salem","moyenne"=>15),
